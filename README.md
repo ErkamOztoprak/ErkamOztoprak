@@ -40,7 +40,7 @@ A cargo tracking and dormitory delivery system API.
 - EF Core + MSSQL integration  
 - Angular frontend integration
 
-Project link: [GitHub link here]  
+Project link: [https://github.com/ErkamOztoprak/Kargo]  
 
 ---
 
