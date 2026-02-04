@@ -1,4 +1,4 @@
-# 🌐 Erkam Oztoprak
+# Erkam Oztoprak
 **.NET Backend Developer | Angular Frontend Enthusiast**
 
 I build **scalable, secure, and maintainable backend systems** using the .NET ecosystem, often integrated with Angular frontend for full-stack applications.
@@ -28,30 +28,15 @@ I build **scalable, secure, and maintainable backend systems** using the .NET ec
 
 ---
 
-## 🚀 Current Project: **Kargo**
-A cargo tracking and dormitory delivery system API.
 
-**Backend Highlights:**  
-- JWT-based authentication  
-- User profile & management  
-- Parcel listing & tracking  
-- Trust score implementation  
-- QR code delivery confirmation  
-- EF Core + MSSQL integration  
-- Angular frontend integration
-
-Project link: [https://github.com/ErkamOztoprak/Kargo]  
-
----
-
-## 🎯 Career Goals
+##  Career Goals
 - Become a professional .NET backend engineer  
 - Design scalable and maintainable API architectures  
 - Apply clean architecture and best practices in real-world projects  
 
 ---
 
-## 📬 Contact
+##  Contact
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ErkamOztoprak)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/erkam-%C3%B6ztoprak-b4822991/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erkamoztoprak@gmail.com)
